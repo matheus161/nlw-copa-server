@@ -56,6 +56,3 @@ npm i short-unique-id
 - Token/hash gerado através de vários algoritmos. Criamos dentro do backend e terá uma data de validade
 
 npm i @fastify/jwt
-
-
-ya29.a0AeTM1idAmkR_qZEnHJ5oXh7rUDOGk0uX7ejH-ZH3KG58J7-SRmqvgf-NcdOhfUuRHKGo4Bv2pw7R2FuwZlBjBeD5ajlIBBJfll6uaJ3vdcrqRueGZddjeFlClTruQI0T-mOan3T-7Me1GZ_su0DUlX0IURDwiwaCgYKAYoSARMSFQHWtWOmFJVMja9o7agv1eGKlUHoBw0165
